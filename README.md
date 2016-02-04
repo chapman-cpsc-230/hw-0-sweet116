@@ -1,16 +1,16 @@
 # Git Workflow
 
-**Author:** _\<your name\>_
+**Author:** _\<Branden Sweetser\>_
 
-**Due date:** _\<date\>_
+**Due date:** _\<February 9 2016\>_
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+_\<The assignment gave me instructions to learn how to clone files from the master and edit them in atom, From atom we are to add them back to github.\>_
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+_\<From this I learned how to edit files that I cloned from a main source.\>_
 
 ## Honor Pledge
 
@@ -21,4 +21,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+_\<Branden Sweetser
+\>_
